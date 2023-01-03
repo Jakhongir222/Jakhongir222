@@ -1,9 +1,6 @@
 
-<div align="center">
-  
-  <img width="100%" height="auto" src="https://github.com/omgshalihin/omgshalihin/blob/main/particle-banner.gif">
-  
-</div>
+![Jak](https://www.dropbox.com/s/7u9k7avclq15v8j/jak.png?dl=0)
+
 
 ## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Welcome to my page!
 
