@@ -1,15 +1,15 @@
-### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, Welcome to my page!
-#### Full-Stack Java developer
+## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, Welcome to my page!
+#### My name is Jakhongir Burkhonov. Click below to read more about me :arrow_down:
 
 
 <details>
- <summary>:point_right: Click to read more about me 
+ <summary>:point_right: Click me 
 </summary>
-## :computer: A little about me .. 
+:computer: A LITTLE ABOUT ME ...
+ 
+27 year old, enthusiastic, driven and adaptable full-stack java developer, particularly passionate about OOP and TDD. Graduate of </salt> School of Applied Technology's highly competitive & intensive full stack bootcamp in Stockholm. I was selected as one out of 1200 applicants to join salts bootcamp alongside 20 students.
 
-(this part should be collapsable)
-
-I am a logical and strategic thinker with varied technical expertise, and I take pride in my strong attention to detail and problem-solving skills . I thrive on working with different teams and learning from people with varied skill sets and backgrounds.
+I am a logical and strategic thinker with varied technical expertise, and I take pride in my strong attention to detail and problem-solving skills . Having graduated with a Tourism Management degree , I came across with different people all around the world, I learned how to form client relationships and improve my communication skills. I thrive on working with different teams and learning from people with varied skill sets and backgrounds.
 </details> 
 
 ## :computer: The technologies and tools that I am proficient in using
@@ -55,16 +55,25 @@ I am a logical and strategic thinker with varied technical expertise, and I take
   
   
 ## 📊 GitHub Stats
-  
-<div style="display: flex; flex-direction: row; align-items: center; margin: auto;">
- <img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir222&langs_count=8&layout=compact" />
-  <img class="img" src="https://streak-stats.demolab.com/?user=jakhongir222" />
+
+ <!--
+add this instead of stats if it works leter
+ <img class="img" src="https://streak-stats.demolab.com/?user=jakhongir222" />
+
+-->
+ 
+ <div class='container'>
+<img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jakhongir222&show_icons=true" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir222&langs_count=8&layout=compact" /></div>
 </div>
-
-
 
 
 ## :telephone_receiver: CONTACT ME ON ...
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jakhongir222)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/jakburkhanov//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://full-stack-responsive-blog-jakhongir222.vercel.app/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](mailto:jakhongir.burkhanov@appliedtechnology.se)
+&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/jakburkhanov//)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://full-stack-responsive-blog-jakhongir222.vercel.app/)
+ 
+
 
