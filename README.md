@@ -36,14 +36,14 @@ I am a logical and strategic thinker with varied technical expertise, and I take
   ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=5849BE)
 
 
-  ### Cloud / Hosting and Databases
+  ### Cloud Providers and Databases
   ![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   
-  ### Testing
+  ### Testing Frameworks
   ![junit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
   ![E2E Testing](https://img.shields.io/badge/E2E%20Testing-black?style=for-the-badge&logo=end-to-end-testing&logoColor=5849BE)
   ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
