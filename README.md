@@ -1,4 +1,4 @@
-## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, Welcome to my page!
+## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Welcome to my page!
 #### My name is Jakhongir Burkhonov. Click below to read more about me :arrow_down:
 
 
