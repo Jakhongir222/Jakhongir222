@@ -1,11 +1,14 @@
 
-![Jak](https://www.dropbox.com/s/7u9k7avclq15v8j/jak.png?dl=0)
-
+<div align="center">
+  
+  <img width="100%" height="auto" src="https://media.giphy.com/media/k3bTW12Pb2c9tESlXq/giphy.gif">
+  
+</div>
 
 ## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Welcome to my page!
 
 
-#### My name is Jakhongir Burkhonov. Click below to read more about me :arrow_down:
+#### I am Jakhongir. Click below to read more about me :arrow_down:
 
 
 <details>
