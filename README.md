@@ -10,7 +10,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakhongir222)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakhongir222)](https://github.com/jakhongir222/github-readme-stats)
 
 
 
