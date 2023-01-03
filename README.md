@@ -1,4 +1,9 @@
 
+<div align="center">
+  
+  <img width="100%" height="auto" src="https://github.com/omgshalihin/omgshalihin/blob/main/particle-banner.gif">
+  
+</div>
 
 ## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Welcome to my page!
 
