@@ -1,6 +1,5 @@
 ### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, Welcome to my page!
 #### Full-Stack Java developer
-![Full-Stack Java developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 <details>
@@ -56,14 +55,14 @@ I am a logical and strategic thinker with varied technical expertise, and I take
   
   
 ## 📊 GitHub Stats
+  
+<div style="display: flex; flex-direction: row; align-items: center; margin: auto;">
+ <img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir222&langs_count=8&layout=compact" />
+  <img class="img" src="https://streak-stats.demolab.com/?user=jakhongir222" />
+</div>
 
- <div style="display: flex; flex-direction: row;" >
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir222&layout=compact)](https://github.com/jakhongir222/github-readme-stats)  
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=jakhongir222)
- </div>
 
-(this two should be aligned)
+
 
 ## :telephone_receiver: CONTACT ME ON ...
 
