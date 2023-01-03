@@ -6,7 +6,7 @@ I am a logical and strategic thinker with varied technical expertise, and I take
 
 Skills: JAVA / JAVASCRIPT/ TYPESCRIPT/ REACT / NEXT / SPRING BOOT/ HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 contact me on ... 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jakhongir222)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/jakburkhanov//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://full-stack-responsive-blog-jakhongir222.vercel.app/)  
