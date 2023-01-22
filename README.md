@@ -16,7 +16,7 @@
 </summary>
 :computer: A LITTLE ABOUT ME ...
  
-27 year old, enthusiastic, driven and adaptable full-stack java developer, particularly passionate about OOP and TDD. Graduate of </salt> School of Applied Technology's highly competitive & intensive full stack bootcamp in Stockholm. I was selected as one out of 1200 applicants to join salts bootcamp alongside 20 students.
+Enthusiastic, driven and adaptable full-stack java developer, particularly passionate about OOP and TDD. Graduate of </salt> School of Applied Technology's highly competitive & intensive full stack bootcamp in Stockholm. I was selected as one out of 1200 applicants to join salts bootcamp alongside 20 students.
 
 I am a logical and strategic thinker with varied technical expertise, and I take pride in my strong attention to detail and problem-solving skills . Having graduated with a Tourism Management degree , I came across with different people all around the world, I learned how to form client relationships and improve my communication skills. I thrive on working with different teams and learning from people with varied skill sets and backgrounds
 </details> 
