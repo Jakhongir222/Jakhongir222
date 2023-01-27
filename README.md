@@ -16,9 +16,13 @@
 </summary>
 :computer: A LITTLE ABOUT ME ...
  
-Enthusiastic, driven and adaptable full-stack java developer, particularly passionate about OOP and TDD. Graduate of </salt> School of Applied Technology's highly competitive & intensive full stack bootcamp in Stockholm. I was selected as one out of 1200 applicants to join salts bootcamp alongside 20 students.
+Hey there! I'm a full-stack Java developer with a passion for writing clean, efficient code. I'm a graduate of the super competitive bootcamp program at School of Applied Technology in Stockholm, where I learned how to turn my love for OOP and TDD into a career.
 
-I am a logical and strategic thinker with varied technical expertise, and I take pride in my strong attention to detail and problem-solving skills . Having graduated with a Tourism Management degree , I came across with different people all around the world, I learned how to form client relationships and improve my communication skills. I thrive on working with different teams and learning from people with varied skill sets and backgrounds
+I'm not just a coder though, I've got mad problem-solving skills and a keen eye for detail. Plus, my background in Tourism Management has taught me how to navigate different cultures and communicate effectively with all types of people.
+
+I have a wide range of technical skills and always eager to stay up-to-date with the latest industry trends and advancements. I have experience working with a variety of programming languages, frameworks, and tools, and have a proven track record of delivering high-quality solutions.
+
+So, if you're looking for a driven, adaptable, and all-around awesome full-stack developer, give me a call!
 </details> 
 
 ## :computer: The technologies and tools that I am proficient in using
