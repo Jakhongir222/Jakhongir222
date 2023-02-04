@@ -25,6 +25,14 @@ I have a wide range of technical skills and always eager to stay up-to-date with
 So, if you're looking for a driven, adaptable, and all-around awesome full-stack developer, give me a call!
 </details> 
 
+## ⚡ Fun Personal Projects :
+- [`Jak's Puppy Rescue`](https://puppies-api-frontend-nc92ynvz6-jakhongir222.vercel.app/) (**repository**: [puppies-api-frontend
+](https://github.com/Jakhongir222/puppies-api-frontend.git)).
+- [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/) (**repository**: [tinyblog-react-typescript
+](https://github.com/omgshalihin/tinyblog-react-typescript)).
+
+
+
 ## :computer: The technologies and tools that I am proficient in using
 
 <div>
