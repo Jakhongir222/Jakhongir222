@@ -26,10 +26,9 @@ So, if you're looking for a driven, adaptable, and all-around awesome full-stack
 </details> 
 
 ## ⚡ Fun Personal Projects :
-- [`Jak's Puppy Rescue`](https://puppies-api-frontend-nc92ynvz6-jakhongir222.vercel.app/) (**repository**: [puppies-api-frontend
-](https://github.com/Jakhongir222/puppies-api-frontend.git)).
-- [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/) (**repository**: [tinyblog-react-typescript
-](https://github.com/omgshalihin/tinyblog-react-typescript)).
+- [`Jak's Puppy Rescue`](https://puppies-api-frontend-nc92ynvz6-jakhongir222.vercel.app/) (**repository**: [puppies-api-frontend](https://github.com/Jakhongir222/puppies-api-frontend.git)).
+- [`Tiny Tales`](https://tiny-blog.vercel.app/) (**repository**: [tiny-blog](https://github.com/Jakhongir222/tiny-blog.git)).
+- [Salt employee card](https://add-on-app.vercel.app/) (**repository**: [add-on-app](https://github.com/Jakhongir222/add-on-app.git)).
 
 
 
