@@ -27,10 +27,10 @@ So, if you're looking for a driven, adaptable, and all-around awesome full-stack
 
 ## ⚡ Fun Personal Projects :
 - [`Step up shoes`](https://e-commerce-app-frontend-kr7m.vercel.app/) (**repository**: [e-commerce-app](https://github.com/Jakhongir222/e-commerce-app-frontend.git))
-- [`Travel Blog`](https://full-stack-responsive-blog-jakhongir222.vercel.app/)
-- [`Jak's Puppy Rescue`](https://puppies-api-frontend-nc92ynvz6-jakhongir222.vercel.app/) (**repository**: [puppies-api](https://github.com/Jakhongir222/puppies-api-frontend.git)).
-- [`Tiny Tales`](https://tiny-blog.vercel.app/) (**repository**: [tiny-blog](https://github.com/Jakhongir222/tiny-blog.git)).
-- [`Salt employee card`](https://add-on-app.vercel.app/) (**repository**: [add-on-app](https://github.com/Jakhongir222/add-on-app.git)).
+- [`Travel Blog`](https://full-stack-responsive-blog-jakhongir222.vercel.app/) (**repository**: [travel-blog](https://github.com/Jakhongir222/travel-blog-frontend.git))
+- [`Jak's Puppy Rescue`](https://puppies-api-frontend-nc92ynvz6-jakhongir222.vercel.app/) (**repository**: [puppies-api](https://github.com/Jakhongir222/puppies-api-frontend.git))
+- [`Tiny Tales`](https://tiny-blog.vercel.app/) (**repository**: [tiny-blog](https://github.com/Jakhongir222/tiny-blog.git))
+- [`Salt employee card`](https://add-on-app.vercel.app/) (**repository**: [add-on-app](https://github.com/Jakhongir222/add-on-app.git))
 
 
 
