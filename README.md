@@ -25,7 +25,7 @@ I have a wide range of technical skills and always eager to stay up-to-date with
 So, if you're looking for a driven, adaptable, and all-around awesome full-stack developer, give me a call!
 </details> 
 
-## ⚡ Fun Personal Projects :
+## ⚡ Personal Projects :
 - [`Step up shoes`](https://e-commerce-app-frontend-kr7m.vercel.app/) (**repository**: [e-commerce-app](https://github.com/Jakhongir222/e-commerce-app-frontend.git))
 - [`Travel Blog`](https://full-stack-responsive-blog-jakhongir222.vercel.app/) (**repository**: [travel-blog](https://github.com/Jakhongir222/travel-blog-frontend.git))
 - [`Jak's Puppy Rescue`](https://puppies-api-frontend-nc92ynvz6-jakhongir222.vercel.app/) (**repository**: [puppies-api](https://github.com/Jakhongir222/puppies-api-frontend.git))
