@@ -14,7 +14,7 @@
 <details>
  <summary>:point_right: Click me 
 </summary>
-:computer: A LITTLE ABOUT ME
+:computer: A LITTLE ABOUT ME.
  
 I'm a full-stack Java developer with a passion for writing clean, efficient code. I'm a graduate of the super competitive bootcamp program at School of Applied Technology in Stockholm, where I learned how to turn my love for OOP and TDD into a career.
 
