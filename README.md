@@ -27,7 +27,7 @@ So, if you're looking for a driven, adaptable, and all-around awesome full-stack
 
 ## ⚡ Personal Projects :
 - [`Step up shoes`](https://e-commerce-app-frontend-kr7m.vercel.app/) (**repository**: [e-commerce-app](https://github.com/Jakhongir222/e-commerce-app-frontend.git))
-- [`Jak's Puppy Rescue`](https://puppies-api-frontend-nc92ynvz6-jakhongir222.vercel.app/) (**repository**: [puppies-api](https://github.com/Jakhongir222/puppies-api-frontend.git))
+- [`Jak's Puppy Rescue`](https://puppies-api-frontend-git-main-jakhongir222.vercel.app/) (**repository**: [puppies-api](https://github.com/Jakhongir222/puppies-api-frontend.git))
 - [`ShapeUp fitness app`](https://fitness-app-git-main-jakhongir222.vercel.app/) (**repository**: [fitness-app](https://github.com/Jakhongir222/fitness-app.git))
 - [`Travel Blog`](https://full-stack-responsive-blog-jakhongir222.vercel.app/) (**repository**: [travel-blog](https://github.com/Jakhongir222/travel-blog-frontend.git))
 - [`Fly with me`](https://flight-finder-frontend-jakhongir222.vercel.app/) (**repository**: [flight-finder-frontend](https://github.com/Jakhongir222/flight-finder-frontend.git))
