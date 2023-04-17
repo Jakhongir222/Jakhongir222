@@ -89,18 +89,17 @@ So, if you're looking for a driven, adaptable, and all-around awesome full-stack
   
   
 ## 📊 GitHub Stats
-
-
-add this instead of stats if it works leter
+<!---
+add this if you wanna show current stakes and total commits
  <img class="img" src="https://streak-stats.demolab.com/?user=jakhongir222" />
+--->
 
- <div align="center">
-  <img height="160em" src="https://github-readme-stats-ouuan.vercel.app/api?username=Jakhongir222&show_icons=true&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff">
-  <img height="160em" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=Jakhongir222&layout=compact&bg_color=60,196ada,79096b,9500ff&title_color=fff&text_color=fff&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,github-activity-readme,fancy-git,challengeBot" alt="Priscilla's Top Languages">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jakhongir222&show_icons=true&bg_color=00000000" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir222&layout=compact" height="160em" style="pointer-events:none;"/>
 </div>
 
 ![Snake animation](https://github.com/Jakhongir222/Jakhongir222/blob/output/github-contribution-grid-snake.svg)
-
 
 ## :telephone_receiver: CONTACT ME ON ...
 
