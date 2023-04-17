@@ -25,7 +25,7 @@ I have a wide range of technical skills and always eager to stay up-to-date with
 So, if you're looking for a driven, adaptable, and all-around awesome full-stack developer, give me a call!
 </details> 
 
-### Click below to checkout my portfolio
+### Checkout my Portfolio
 
   <a href="https://portfolio-jakhongir222.vercel.app/">
     <img src="https://www.pngmart.com/files/7/Portfolio-PNG-Pic.png" height="38em" alt="Portfolio Badge"/>
