@@ -90,11 +90,9 @@ So, if you're looking for a driven, adaptable, and all-around awesome full-stack
   
 ## 📊 GitHub Stats
 
- <!--
+
 add this instead of stats if it works leter
  <img class="img" src="https://streak-stats.demolab.com/?user=jakhongir222" />
-
--->
 
 
 ## :telephone_receiver: CONTACT ME ON ...
