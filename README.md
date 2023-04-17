@@ -95,13 +95,6 @@ add this instead of stats if it works leter
  <img class="img" src="https://streak-stats.demolab.com/?user=jakhongir222" />
 
 -->
- 
- <div class='container'>
-<img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jakhongir222&show_icons=true" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir222&langs_count=8&layout=compact" /></div>
-</div>
 
 
 ## :telephone_receiver: CONTACT ME ON ...
