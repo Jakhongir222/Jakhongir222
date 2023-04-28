@@ -12,7 +12,7 @@
 
 
 <details>
- <summary>:point_right: Click me 
+ <summary>:point_right: Click me!
 </summary>
 :computer: A LITTLE ABOUT ME.
  
