@@ -8,13 +8,13 @@
 ## Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Welcome to my page!
 
 
-#### Just call me Jak, I am Full-Stack software developer. Click below to read more about me :arrow_down: ,
+#### Just call me Jak, I am Full-Stack software developer. Click below to read more about me :arrow_down:
 
 
 <details>
  <summary>:point_right: Click me!
 </summary>
-:computer: A LITTLE ABOUT ME.
+:computer: A LITTLE ABOUT ME...
  
 I'm a full-stack Java developer with a passion for writing clean, efficient code. I'm a graduate of the super competitive bootcamp program at </salt> School of Applied Technology in Stockholm, where I learned how to turn my love for OOP and TDD into a career.
 
