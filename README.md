@@ -40,7 +40,6 @@ So, if you're looking for a driven, adaptable, and all-around awesome full-stack
 - [`Travel Blog`](https://travel-blog-frontend-alpha.vercel.app/) (**repository**: [travel-blog](https://github.com/Jakhongir222/travel-blog-frontend.git))
 - [`Fly with me`](https://flight-finder-frontend-jakhongir222.vercel.app/) (**repository**: [flight-finder-frontend](https://github.com/Jakhongir222/flight-finder-frontend.git))
 - [`Tiny Tales`](https://tiny-blog.vercel.app/) (**repository**: [tiny-blog](https://github.com/Jakhongir222/tiny-blog.git))
-- [`Salt employee card`](https://add-on-app.vercel.app/) (**repository**: [add-on-app](https://github.com/Jakhongir222/add-on-app.git))
 
 
 
