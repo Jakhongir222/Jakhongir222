@@ -98,7 +98,7 @@ add this if you wanna show current stakes and total commits
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongir222&layout=compact" height="160em" style="pointer-events:none;"/>
 </div>
 
-##![Snake animation](https://github.com/Jakhongir222/Jakhongir222/blob/output/github-contribution-grid-snake.svg)
+v<!-- ![Snake animation](https://github.com/Jakhongir222/Jakhongir222/blob/output/github-contribution-grid-snake.svg) -->
 
 ## :telephone_receiver: CONTACT ME ON ...
 
