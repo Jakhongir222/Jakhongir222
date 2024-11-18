@@ -18,11 +18,11 @@
  
 I'm a full-stack software developer with a passion for writing clean, efficient code. I'm a graduate of the super competitive bootcamp program at </salt> School of Applied Technology in Stockholm, where I learned how to turn my love for OOP and TDD into a career.
 
-I'm not just a coder though, I have a strong problem-solving skills and a keen eye for detail. Plus, my background in Tourism Management has taught me how to navigate different cultures and communicate effectively with all types of people.
+I'm not just a coder though, I have a strong problem-solving skills and a keen eye for detail. Plus, I have experience collaborating with stakeholders and understanding business requirements. I have experience working as a Scrum Master, facilitating agile processes and ensuring smooth team collaboration.
 
-When it comes to tech, I have worked with Java, JavaScript, Typescript, HTML, CSS, Maven, Node.js, SpringBoot, SpringApi, React, MongoDB, PostgreSQL, Azure, Vercel, Git, REST, Docker, TDD, and CI/CD. But, I'm always looking to learn more and stay on top of the latest trends in the industry.
+When it comes to tech stack, I have worked with Java, JavaScript, Typescript, HTML, CSS, Maven, Node.js, BMC Remedy, SpringBoot, SpringApi, React, MongoDB, AWS, PostgreSQL, Azure, Vercel, Git, REST, Docker, TDD, and CI/CD. But, I'm always looking to learn more and stay on top of the latest trends in the industry.
 
-So, if you're looking for a driven, adaptable, and all-around awesome full-stack developer, give me a call!
+Currently working as a Software Developer/SM at Scania, where I contribute to the development and maintenance of software solutions, collaborating with cross-functional teams to deliver high-quality products
 </details> 
 
 ### Checkout my Portfolio
@@ -53,6 +53,7 @@ So, if you're looking for a driven, adaptable, and all-around awesome full-stack
   ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![BMC Remedy](https://img.shields.io/badge/BMC_Remedy-005F87?style=for-the-badge&logo=bmc&logoColor=white)
   
   #### Technologies, Frameworks, Platforms and Libraries
   ![springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
